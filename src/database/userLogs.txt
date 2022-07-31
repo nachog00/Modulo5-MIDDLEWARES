@@ -1,0 +1,9 @@
+El ususario igreso a la ruta:	/products
+Time: 7/31/2022, 8:32:42 PM
+
+El ususario igreso a la ruta:	/products/create
+Time: 7/31/2022, 8:33:05 PM
+
+El ususario igreso a la ruta:	/products/create/awesome
+Time: 7/31/2022, 8:33:28 PM
+

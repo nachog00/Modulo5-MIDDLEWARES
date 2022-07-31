@@ -22,9 +22,13 @@ app.set('views', './src/views'); // Seteo de la ubicación de la carpeta "views"
 
 
 // ************ WRITE YOUR CODE FROM HERE ************
+const userLogs = require('./middlewares/userLogs');
+
+
+
 // ************ Route System require and use() ************
-const mainRouter = require('./routes/main');
-app.use('/', mainRouter);
+const mainRouter = require('./routes/main.routes');
+app.use('/', userLogs, mainRouter);
 
 
 
