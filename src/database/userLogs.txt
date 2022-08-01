@@ -7,3 +7,145 @@ Time: 7/31/2022, 8:33:05 PM
 El ususario igreso a la ruta:	/products/create/awesome
 Time: 7/31/2022, 8:33:28 PM
 
+El ususario igreso a la ruta:	/products/create/awesome
+Params: {}
+Time: 7/31/2022, 8:37:04 PM
+
+El ususario igreso a la ruta:	/
+Params: {}
+Time: 7/31/2022, 8:44:48 PM
+
+El ususario igreso a la ruta:	/
+Params: {}
+Time: 7/31/2022, 8:45:10 PM
+
+El ususario igreso a la ruta:	/?user=juan
+Params: {}
+Time: 7/31/2022, 8:45:48 PM
+
+El ususario igreso a la ruta:	/?user=juan
+Params: {}
+Time: 7/31/2022, 8:46:07 PM
+
+El ususario igreso a la ruta:	/?user=juan
+Params: {}
+Time: 7/31/2022, 8:47:26 PM
+
+El ususario igreso a la ruta:	/?user=juan
+Params: {}
+Time: 7/31/2022, 8:48:00 PM
+
+El ususario igreso a la ruta:	/?user=juan
+Params: {}
+Time: 7/31/2022, 8:48:55 PM
+
+El ususario igreso a la ruta:	/?user=juan
+Params: {}
+Time: 7/31/2022, 8:49:05 PM
+
+El ususario igreso a la ruta:	/?user=van
+Params: {}
+Time: 7/31/2022, 8:49:09 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Params: {}
+Time: 7/31/2022, 8:49:16 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Params: {}
+Time: 7/31/2022, 8:49:46 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Params: {}
+Time: 7/31/2022, 8:49:51 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Params: {}
+Time: 7/31/2022, 8:50:32 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Params: {}
+Time: 7/31/2022, 8:50:44 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Params: {}
+Time: 7/31/2022, 8:51:02 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Params: {}
+Time: 7/31/2022, 8:51:10 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Params: {}
+Time: 7/31/2022, 8:51:38 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Params: {}
+Time: 7/31/2022, 8:52:20 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:53:36 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:56:51 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:56:53 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:57:07 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:57:49 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:58:05 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:58:21 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:58:23 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:58:30 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:58:45 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:59:08 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 8:59:17 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 9:00:13 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 9:00:17 PM
+
+El ususario igreso a la ruta:	/?user=juan
+Time: 7/31/2022, 9:00:21 PM
+
+El ususario igreso a la ruta:	/?user=juan
+Time: 7/31/2022, 9:00:25 PM
+
+El ususario igreso a la ruta:	/?user=juan
+Time: 7/31/2022, 9:00:31 PM
+
+El ususario igreso a la ruta:	/?user=Ada
+Time: 7/31/2022, 9:00:36 PM
+
+El ususario igreso a la ruta:	/?user=greta
+Time: 7/31/2022, 9:01:33 PM
+
+El ususario igreso a la ruta:	/?user=Greta
+Time: 7/31/2022, 9:01:38 PM
+
+El ususario igreso a la ruta:	/?user=Greta
+Time: 7/31/2022, 9:02:01 PM
+
+El ususario igreso a la ruta:	/?user=Tim
+Time: 7/31/2022, 9:02:06 PM
+
